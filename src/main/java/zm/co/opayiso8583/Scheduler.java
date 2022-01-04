@@ -68,6 +68,7 @@ public class Scheduler {
 			m.set(7, "85720");
 			m.set(11, ("644119"));
 			m.set(28, (new java.text.SimpleDateFormat("yyMMdd")).format(new Date()));
+			m.set(24, "831");
 
 			m.set(93, ("1000000000"));
 			//m.set(93, ("100000"));
